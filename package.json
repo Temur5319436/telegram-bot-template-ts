@@ -1,15 +1,14 @@
 {
-  "name": "ishonch-partner-communication-bot",
+  "name": "telegram-bot-template-ts",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "main.ts",
   "scripts": {
     "dev": "nodemon main.ts",
-    "test": "echo \"Error: no test specified\" && exit 1",
     "build": "npx tsc"
   },
   "keywords": [],
-  "author": "",
+  "author": "Temur Usmonaliyev",
   "license": "ISC",
   "dependencies": {
     "dotenv": "^16.0.1",
